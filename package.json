@@ -106,8 +106,9 @@
   },
   "private": true,
   "workspaces": [
-    "src/addons/volto-venue",
-    "volto-venue"
+    "src/addons/volto-venue"
   ],
-  "addons": []
+  "addons": [
+    "volto-venue"
+  ]
 }
