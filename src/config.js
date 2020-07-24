@@ -14,7 +14,6 @@
 
 import * as config from '@plone/volto/config';
 
-console.dir(config.widgets.id);
 export const settings = {
   ...config.settings,
 };

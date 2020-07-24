@@ -1,9 +1,7 @@
 {
     "compilerOptions": {
         "paths": {
-            "volto-venue": [
-                "addons/volto-venue"
-            ]
+            "volto-venue": ["addons/volto-venue/src"]
         },
         "baseUrl": "src"
     }
